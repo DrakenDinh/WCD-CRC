@@ -23,6 +23,6 @@ openpyxl==3.1.5
 
 xlsxwriter==3.2.5
 
-# Usage:
+# Requirements:
 jupyter notebook
 
