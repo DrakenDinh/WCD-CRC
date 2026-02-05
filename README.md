@@ -7,7 +7,7 @@ All the original data used by WCD-CRC can be found in the "Original_Dataset" fol
 # Dependency:
 numpy==1.23.5
 
-pandas==2.3.1
+pandas==1.5.3
 
 scikit-learn==1.7.1
 
@@ -15,9 +15,9 @@ tensorflow==2.12.0
 
 keras==2.12.0
 
-matplotlib==3.10.5
+matplotlib==3.7.2
 
-seaborn==0.13.2
+seaborn==0.12.2
 
 openpyxl==3.1.5
 
