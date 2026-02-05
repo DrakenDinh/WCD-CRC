@@ -24,5 +24,5 @@ openpyxl==3.1.5
 xlsxwriter==3.2.5
 
 # Usage:
-jupyter notebook train_and_test.ipynb
+jupyter notebook
 
